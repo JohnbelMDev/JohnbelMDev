@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/1df4a169-e7b3-425c-86d2-bf8a9ddb4fd5
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -69,14 +71,11 @@ Focus areas include designing and implementing scalable, secure solutions compli
         <p><img src="https://github.com/user-attachments/assets/54837d41-344b-402e-b7aa-c1d2999d3943" alt="GitHub User Attachments"></p>
     </footer>
     
-https://raw.githubusercontent.com/JohnbelMDev/Video/main/demo-video.mp4.mp4
-
-https://github.com/user-attachments/assets/1df4a169-e7b3-425c-86d2-bf8a9ddb4fd5
-
-<video width="100%" height="auto" controls>
-    <source src="https://raw.githubusercontent.com/JohnbelMDev/Video/main/demo-video.mp4.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+ 
+ 
+ 
 
 </body>
 </html>
+
+ 
