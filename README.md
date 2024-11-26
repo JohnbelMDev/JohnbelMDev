@@ -17,6 +17,14 @@
         <h1>🩺 Welcome to Klinik Pam!</h1>
         <p>"Where the wellness journey begins, and care feels like home."</p>
     </header>
+     <section>
+        <h2>Video Showcase</h2>
+        <!-- Embed the GitHub-hosted video -->
+        <video width="100%" height="auto" controls>
+            <source src="https://github.com/user-attachments/assets/1df4a169-e7b3-425c-86d2-bf8a9ddb4fd5" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </section>
     <section>
         <h2>💆‍♀️ Services at a Glance:</h2>
         <ul>
@@ -60,5 +68,15 @@ Focus areas include designing and implementing scalable, secure solutions compli
         <p><img src="https://github.com/JohnbelMDev/Portfolio-Update/blob/master/LIGHT/2020-11-13%2003.55.56.gif" alt="Animation of services"></p>
         <p><img src="https://github.com/user-attachments/assets/54837d41-344b-402e-b7aa-c1d2999d3943" alt="GitHub User Attachments"></p>
     </footer>
+    
+https://raw.githubusercontent.com/JohnbelMDev/Video/main/demo-video.mp4.mp4
+
+https://github.com/user-attachments/assets/1df4a169-e7b3-425c-86d2-bf8a9ddb4fd5
+
+<video width="100%" height="auto" controls>
+    <source src="https://raw.githubusercontent.com/JohnbelMDev/Video/main/demo-video.mp4.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 </body>
 </html>
